@@ -1,0 +1,34 @@
+{
+  "reminders": [
+    {
+      "id": "rem-4e6dfebe",
+      "content": "I'm sick but I'm not sick",
+      "remind_time": "",
+      "recurring": false,
+      "recurrence_interval": "",
+      "status": "active",
+      "created": "2026-02-07T23:54:08",
+      "last_delivered": ""
+    },
+    {
+      "id": "rem-cda1aea1",
+      "content": "to water my flowers in 10 minutes or no in 10 seconds",
+      "remind_time": "",
+      "recurring": false,
+      "recurrence_interval": "",
+      "status": "active",
+      "created": "2026-02-07T23:55:10",
+      "last_delivered": ""
+    },
+    {
+      "id": "rem-563c5369",
+      "content": "in 1 minute",
+      "remind_time": "",
+      "recurring": false,
+      "recurrence_interval": "",
+      "status": "active",
+      "created": "2026-02-07T23:55:34",
+      "last_delivered": ""
+    }
+  ]
+}

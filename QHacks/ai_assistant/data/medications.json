@@ -1,0 +1,13 @@
+{
+  "# instructions": "List each medication entry below. Each item should include id, name, dosage, schedule (HH:MM), and optional instructions.",
+  "medications": [
+    {
+      "id": "med-1",
+      "name": "Medication Name",
+      "dosage": "50 mg",
+      "schedule": ["08:00", "20:00"],
+      "instructions": "Take with food. Do not mix with alcohol."
+    }
+  ],
+  "taken_log": []
+}

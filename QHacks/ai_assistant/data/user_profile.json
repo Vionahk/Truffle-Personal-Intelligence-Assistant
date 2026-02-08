@@ -1,0 +1,37 @@
+{
+  "# instructions": "Fill in your personal information. Save this file as UTF-8. Do not share sensitive keys publicly.",
+  "full_name": "Your Full Name",
+  "preferred_name": "Doing",
+  "date_of_birth": "YYYY-MM-DD",
+  "emergency_contacts": [
+    {
+      "name": "Primary Contact Name",
+      "relationship": "Spouse / Child / Caregiver",
+      "phone": "+1-555-555-5555",
+      "is_primary": true
+    }
+  ],
+  "medical_info": {
+    "allergies": [
+      "penicillin"
+    ],
+    "conditions": [
+      "diabetes",
+      "hypertension"
+    ],
+    "primary_physician": {
+      "name": "Dr. Example",
+      "phone": "+1-555-000-0000"
+    }
+  },
+  "daily_routine": {
+    "wake_time": "07:00",
+    "bed_time": "22:30",
+    "notes": "Short note about preferred routine."
+  },
+  "preferences": {
+    "language": "en",
+    "voice": "default",
+    "notify_primary_contact_on_medication_escalation": true
+  }
+}

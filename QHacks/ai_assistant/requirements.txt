@@ -1,0 +1,28 @@
+# Core
+python-dotenv>=1.0.0
+requests>=2.31.0
+numpy>=1.24.0
+
+# Gradium SDK (primary TTS — low-latency natural voice)
+gradium>=0.5.7
+
+# Backboard SDK (primary LLM with persistent memory)
+backboard-sdk>=1.4.12
+
+# Audio playback
+pygame>=2.5.0
+
+# Audio capture
+pyaudio>=0.2.13
+
+# Speech recognition (Google STT)
+SpeechRecognition>=3.10.0
+
+# Optional: offline TTS fallback
+pyttsx3>=2.90
+
+# Website server
+flask>=3.0.0
+
+# Public URL tunnel (for sharing / demo)
+pyngrok>=7.0.0

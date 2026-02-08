@@ -1,0 +1,94 @@
+{
+  "memories": [
+    {
+      "timestamp": "2026-02-07T23:22:16",
+      "source": "user",
+      "content": "I don't know I can't remember most of my days my kids do it for me",
+      "tags": [
+        "personal_info",
+        "auto_extracted"
+      ]
+    },
+    {
+      "timestamp": "2026-02-07T23:22:52",
+      "source": "user",
+      "content": "I want to just find my meds what if I told you and would you know later",
+      "tags": [
+        "comfort_method",
+        "auto_extracted"
+      ]
+    },
+    {
+      "timestamp": "2026-02-07T23:24:42",
+      "source": "user",
+      "content": "thank you I need to go to work can you remind her to take her medication in 1 minute and tell her",
+      "tags": [
+        "comfort_method",
+        "auto_extracted"
+      ]
+    },
+    {
+      "timestamp": "2026-02-07T23:30:05",
+      "source": "user",
+      "content": "I'm feeling I don't remember what medication I'm taking",
+      "tags": [
+        "emotional_state",
+        "auto_extracted"
+      ]
+    },
+    {
+      "timestamp": "2026-02-07T23:47:31",
+      "source": "user",
+      "content": "okay good cuz I'm not sick my name is Melody call me by my",
+      "tags": [
+        "personal_info",
+        "auto_extracted"
+      ]
+    },
+    {
+      "timestamp": "2026-02-07T23:53:38",
+      "source": "user",
+      "content": "why do you call me sick my name is Melody and I'm not sick keep telling you don't call me sick I hate that",
+      "tags": [
+        "personal_info",
+        "auto_extracted"
+      ]
+    },
+    {
+      "timestamp": "2026-02-08T00:20:25",
+      "source": "user",
+      "content": "my name isn't sister keep always getting it wrong it's Melody we have spoken before it is Melody save that",
+      "tags": [
+        "personal_info",
+        "auto_extracted"
+      ]
+    },
+    {
+      "timestamp": "2026-02-08T00:21:18",
+      "source": "user",
+      "content": "no I feel overwhelmed and I'm stressed and I feel so bad why don't you care",
+      "tags": [
+        "emotional_state",
+        "auto_extracted"
+      ]
+    },
+    {
+      "timestamp": "2026-02-08T00:21:50",
+      "source": "user",
+      "content": "oh I feel stressed and you're not understanding",
+      "tags": [
+        "emotional_state",
+        "auto_extracted"
+      ]
+    },
+    {
+      "timestamp": "2026-02-08T00:47:44",
+      "source": "user",
+      "content": "maybe I feel a bit down but nothing much",
+      "tags": [
+        "emotional_state",
+        "auto_extracted"
+      ]
+    }
+  ]
+}
