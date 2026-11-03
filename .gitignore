@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets and certificates
+.env
+*.pem
+*.key
+
+# Personal data and logs created when the app runs
+**/user_profile.json
+**/chat_log.json
+**/memories.json
+**/reminders.json
+**/preferences.json
+**/activity_log.json
+*.log
